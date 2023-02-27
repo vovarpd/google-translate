@@ -1,5 +1,5 @@
 {
-    "name": "pixxet/google-translate",
+    "name": "vovarpd/google-translate",
     "description": "Free Laravel package for Paid Google Translate REST API",
     "keywords": ["laravel", "google", "translate", "php"],
     "license": "MIT",
